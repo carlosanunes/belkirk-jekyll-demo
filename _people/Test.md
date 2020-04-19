@@ -2,11 +2,14 @@
 role:
 - staff
 layout: person
-title: ''
-sub_heading: ''
+title: Pessoa X
+sub_heading: Pilar
 thumbnail: ''
 email: ''
 linkedin: ''
 published: false
 
 ---
+* **_Gajo que joga muito._**
+* 
+* 
