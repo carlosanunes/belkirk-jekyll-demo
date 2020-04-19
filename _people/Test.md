@@ -7,7 +7,6 @@ sub_heading: Pilar
 thumbnail: ''
 email: ''
 linkedin: ''
-published: false
 
 ---
 * **_Gajo que joga muito._**
